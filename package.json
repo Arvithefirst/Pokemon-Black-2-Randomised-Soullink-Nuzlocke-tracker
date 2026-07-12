@@ -1,0 +1,12 @@
+{
+  "name": "unova-nuzlocke-tracker",
+  "version": "1.0.0",
+  "description": "A live-synced Soul Link Nuzlocke tracker for randomized Unova playthroughs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
